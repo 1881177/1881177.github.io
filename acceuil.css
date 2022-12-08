@@ -1,0 +1,67 @@
+html {
+    min-height: 100%;
+    background-image: url(arriere_plan_acceuil.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+header{
+    margin-bottom: 75px;
+
+}
+
+header h2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav {
+    text-align: center;
+}
+
+nav ul {
+    display: inline-block;
+}
+
+nav ul li {
+    display: inline;
+    padding-left: 75px;
+    font-family: helvetica;
+
+}
+
+nav ul li a {
+    text-decoration: underline;
+    text-underline-offset: 30px;
+    color: rgb(49, 223, 63);
+    font-size: 30px;
+}
+
+nav ul li a:hover {
+    color: rgb(116, 160, 115);
+}
+
+section {
+    text-align: center;
+    padding-left:100px ; 
+    padding-right:100px ;
+}
+
+section h1 {
+    color: aliceblue;
+    font-size: 60px;
+}
+
+section hr {
+    margin-bottom: 80px;
+}
+
+section p {
+    font-size: 20px;
+    color: aliceblue;
+}
+
+
+

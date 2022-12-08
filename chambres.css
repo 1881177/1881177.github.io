@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+}
+header {
+    background-color: rgba(0, 0, 0, 0.829);
+    height: 230px;
+    padding-top: 30px;
+}
+
+header h2 {
+    color:antiquewhite;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+header nav {
+    line-height: 280px;
+    text-align: center;
+}
+
+header nav ul {
+    display: inline-block;
+}
+
+header nav ul li {
+    display: inline;
+    padding-left: 75px;
+    font-family: helvetica;
+}
+
+header nav ul li a:hover {
+    color: rgb(116, 160, 115);
+}
+
+header nav ul li a {
+    text-decoration: underline;
+    text-underline-offset: 30px;
+    color: rgb(49, 223, 63);
+    font-size: 30px;
+}
+
+section {
+    margin-left: 75px;
+    margin-right: 75px;
+    padding-left: 90px;
+    display: inline-block;
+}
+
+section div {
+    background-color: rgba(0, 0, 0, 0.829);
+    margin: 10px;
+    color: rgb(255, 255, 255);
+}
+
+section ul li {
+    list-style: none;
+}
+
+#titre {
+    background-color:rgb(255, 255, 255);
+    height: 100px;
+    color: black;
+    text-decoration: underline;
+    text-underline-offset: 30px;
+    font-size: 30px;
+}
+
+section h4 {
+    margin: 10px;
+    padding: 10px;
+}
+
+section p {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+#ch1 {
+    width: 45%;
+    height: 950px;
+    display: inline-block;
+}
+
+#ch2 {
+    width: 45%;
+    height: 950px;
+    display: inline-block;
+}
+
+#ch3 {
+    width: 45%;
+    height: 950px;   
+}
+
+#ch1 img {
+    height: 450px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#ch2 img {
+    height: 450px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#ch3 img {
+    height: 450px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#ch1 ul li {
+    margin: 10px;
+}
+
+#ch2 ul li {
+    margin: 10px;
+}
+
+#ch3 ul li {
+    margin: 10px;
+}
+
+#ch1 ul li i {
+    margin-right: 10px;
+}
+
+#ch2 ul li i {
+    margin-right: 10px;
+}
+
+#ch3 ul li i {
+    margin-right: 10px;
+}
+
+#lab {
+    margin-top: 15px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#lab input {
+    height: 50px;
+    width: 200px;
+}
+
+i {
+    color: rgb(49, 223, 63);
+}
+
+#s99 {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+footer {
+    background-color:rgba(0, 0, 0, 0.829) ;
+    padding: 10px;
+    
+}
+
+form input {
+    margin-bottom: 25px;
+    width: 500px;
+    height: 25px;
+    border: solid rgba(0, 0, 0, 0.829) 1px;
+    border-radius: 5px;
+}
+
+footer label {
+    color: aliceblue;
+}
+
+#un {
+    padding-left: 22%;
+}
+
+#deux {
+    padding-left: 22%;
+}
+
+#trois {
+    padding-left: 22%;
+}
+
+#quatre {
+    padding-left: 22%;
+}
+
+select {
+    width: 500px;
+    height: 25px;
+}
+
+#button2 input {
+    background-color:rgb(49, 223, 63);
+    color: aliceblue;
+}
+
+
+
+
+
+
+
